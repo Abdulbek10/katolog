@@ -1,0 +1,1 @@
+from .kinokatalogs import Kinokatalog  
